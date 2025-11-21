@@ -1,0 +1,5 @@
+{
+  "name": "MMX-Agent-components",
+  "entry": "src/index.js",
+  "description": "Components for Minimax Agent Web"
+}
