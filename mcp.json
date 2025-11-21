@@ -1,5 +1,8 @@
 {
-  "name": "MMX-Agent-components",
-  "entry": "src/index.js",
-  "description": "Components for Minimax Agent Web"
+  "name": "mmx-agent-components",
+  "version": "1.0.0",
+  "componentsPath": "src/components",
+  "language": "javascript",
+  "framework": "react",
+  "entry": "src/index.js"
 }
